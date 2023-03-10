@@ -13,7 +13,7 @@ let galleryarray = [
         id:2,
         name : "avatar",
         src : "assets/images/avatar.jpg",
-        link : "#"
+        link : "./films/Avatar/index.html"
     },
     {
         id:3,
