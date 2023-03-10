@@ -1,0 +1,165 @@
+body{
+    background-color: black;
+    overflow-x: hidden;
+    height: 1vh;
+    zoom: 67%;
+}
+.navbar-moi{
+    background: linear-gradient(to right, black, rgb(121, 8, 8)) ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+
+.nom{
+    position: relative;
+    right: 30%;
+    font-size: 50px;
+}
+.films{
+    position: relative;
+    right: 0%;
+    font-size: 50px;
+}
+.home{
+    position: relative;
+    right: 5%;
+    font-size: 50px;
+}
+h1{
+    color: white;
+}
+h4{
+    color: white;
+}
+.g404{
+    font-size: 30px;
+    text-decoration: underline;
+}
+button{
+    background-color: transparent;
+    color: white;
+    border: 3px solid white;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 30px;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+}
+.name{
+    margin: 10px;
+    font-size: 100px;
+}
+.infos{
+    font-size: 30px;
+}
+.search-moi{
+    width: 1500px;
+    position: relative;
+    bottom: 200px;
+}
+.search-moi input{
+    font-size: 25px;
+}
+.search-moi button{
+    font-size: 25px;
+    color: #38bdf8;
+    border-color: #38bdf8;
+}
+.search-moi button:hover{
+    background-color: #38bdf8;
+    border-color: #38bdf8;
+}
+
+
+.img-card{
+    height: 600px;
+}
+.cards{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card-moi{
+    width: 400px;
+    margin: 100px;
+}
+.title-card{
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 200%;
+    text-align: center;
+}
+.buton-card{
+    position: relative;
+    left: 30%;
+}
+
+
+
+
+.fin{
+    background: linear-gradient(to right, black, rgb(121, 8, 8));
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 300px;
+}
+.fin h1{
+    font-size: 40px;
+    position: relative;
+    left: 40%;
+}
+.fin a{
+    font-size: 30px;
+    position: relative;
+    left: 40%;
+    cursor: pointer;
+}
+
+
+
+.reseaux{
+    position: relative;
+    top: 200px;
+    left: 2%;
+
+}
+.reseaux h1{
+    position: relative;
+    left: 30px;
+}
+.insta{
+    width: 60px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.spotify{
+    width: 60px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.tiktok{
+    width: 60px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
+.youtube{
+    width: 60px;
+    margin-left: 12px;
+    margin-right: 12px;
+}
