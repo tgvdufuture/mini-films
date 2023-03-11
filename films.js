@@ -223,7 +223,7 @@ let galleryarray = [
         id:36,
         name : "taxi 5",
         src : "assets/images/taxi 5.jpg",
-        link : "#"
+        link : "./films/Taxi5/index.html"
     },
    ];
 
