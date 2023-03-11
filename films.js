@@ -193,7 +193,7 @@ let galleryarray = [
         id:31,
         name : "fast and furious 9",
         src : "assets/images/fast and furious 9.jpg",
-        link : "#"
+        link : "./films/FastAndFurious9/index.html"
     },
     {
         id:32,
