@@ -231,6 +231,12 @@ let galleryarray = [
         src : "assets/images/alerte rouge.jpg",
         link : "./films/AlerteRouge/index.html"
     },
+    {
+        id:38,
+        name : "Free Guy",
+        src : "assets/images/free guy.jpg",
+        link : "./films/FreeGuy/index.html"
+    },
     ];
 
 
