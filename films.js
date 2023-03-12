@@ -7,7 +7,7 @@ let galleryarray = [
         id:1,
         name : "l'ascension",
         src : "assets/images/ascension.jpg",
-        link : "./films/Ascencion/index.html"
+        link : "./films/Ascension/index.html"
     },
     {
         id:2,
