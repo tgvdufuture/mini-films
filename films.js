@@ -17,15 +17,15 @@ let galleryarray = [
     },
     {
         id:3,
-        name : "Avatar 2",
+        name : "Avatar : La Voie De L'Eau",
         src : "assets/images/avatar2.jpg",
-        link : "#"
+        link : "./films/Avatar2/index.html"
     },
     {
         id:4,
         name : "The Batman",
         src : "assets/images/batman.jpg",
-        link : "#"
+        link : "films/Batman/index.html"
     },
     {
         id:5,
@@ -121,13 +121,13 @@ let galleryarray = [
         id:19,
         name : "Black Panther",
         src : "assets/images/black-panther.jpg",
-        link : "#"
+        link : "./films/BlackPanther/index.html"
     },
     {
         id:20,
-        name : "Black Panther: wakanda forever",
+        name : "Black Panther : wakanda forever",
         src : "assets/images/black-panther2.jpg",
-        link : "#"
+        link : "./films/BlackPanther2/index.html"
     },
     {
         id:21,
@@ -234,8 +234,20 @@ let galleryarray = [
     {
         id:38,
         name : "Free Guy",
-        src : "assets/images/free guy.jpg",
+        src : "assets/images/free-guy.jpg",
         link : "./films/FreeGuy/index.html"
+    },
+    {
+        id:39,
+        name : "Encanto",
+        src : "assets/images/encanto.jpg",
+        link : "./films/Encanto/index.html"
+    },
+    {
+        id:40,
+        name : "Abominable",
+        src : "assets/images/abominable.jpg",
+        link : "./films/Abominable/index.html"
     },
     ];
 
