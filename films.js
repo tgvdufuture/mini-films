@@ -225,6 +225,12 @@ let galleryarray = [
         src : "assets/images/taxi 5.jpg",
         link : "./films/Taxi5/index.html"
     },
+    {
+        id: 37,
+        name : "irréductibles",
+        src : "assets/images/irréductibles.jpg",
+        link : "#"
+    }
    ];
 
 
