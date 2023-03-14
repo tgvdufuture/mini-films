@@ -37,7 +37,7 @@ let galleryarray = [
         id:6,
         name : "Ready Player One",
         src : "assets/images/ready-player-one.jpg",
-        link : "#"
+        link : "./films/ReadyPlayerOne/index.html"
     },
     {
         id:7,
