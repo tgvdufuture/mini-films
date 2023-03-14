@@ -28,40 +28,16 @@ let galleryarray = [
         link : "films/Batman/index.html"
     },
     {
-        id:5,
-        name : "Captaine Fantastique",
-        src : "assets/images/cpt-fantastic.jpg",
-        link : "#"
-    },
-    {
         id:6,
         name : "Ready Player One",
         src : "assets/images/ready-player-one.jpg",
         link : "./films/ReadyPlayerOne/index.html"
     },
     {
-        id:7,
-        name : "Retour Vers Le Futur",
-        src : "assets/images/retour1.jpg",
-        link : "#"
-    },
-    {
-        id:8,
-        name : "Retour Vers Le Futur 2",
-        src : "assets/images/retour2.jpg",
-        link : "#"
-    },
-    {
-        id:9,
-        name : "Retour Vers Le Futur 3",
-        src : "assets/images/retour3.jpg",
-        link : "#"
-    },
-    {
         id:10,
         name : "Spiderman No Way Home",
         src : "assets/images/spiderman.jpg",
-        link : "#"
+        link : "./films/Spiderman/index.html"
     },
     {
         id:11,
@@ -136,12 +112,6 @@ let galleryarray = [
     link : "./films/BlackAdam/index.html"
     },
     {
-        id:22,
-        name : "La Grande Aventure Lego",
-        src : "assets/images/lego.jpg",
-        link : "#"
-    },
-    {
         id:23,
         name : "Fast and Furious",
         src : "assets/images/fast and furious.jpg",
@@ -199,7 +169,7 @@ let galleryarray = [
         id:32,
         name : "Taxi",
         src : "assets/images/taxi.jpg",
-        link : "#"
+        link : "./films/Taxi/index.html"
     },
     {
         id:33,
