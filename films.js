@@ -43,25 +43,25 @@ let galleryarray = [
         id:11,
         name : "Star Wars I : la menace fantôme",
         src : "assets/images/star-wars1.jpg",
-        link : "#"
+        link : "./films/StarWars1/index.html"
     },
     {
         id:12,
         name : "tar wars II : l'attaque des clones",
         src : "assets/images/star-wars2.jpg",
-        link : "#"
+        link : "./films/StarWars2/index.html"
     },
     {
         id:13,
         name : "Star Wars III : la revanche des sith",
         src : "assets/images/star-wars3.jpg",
-        link : "#"
+        link : "./films/StarWars3/index.html"
     },
     {
         id:14,
         name : "Star Wars IV : un nouvel espoir",
         src : "assets/images/star-wars4.jpg",
-        link : "#"
+        link : "./films/StarWars4/index.html"
     },
     {
         id:15,
