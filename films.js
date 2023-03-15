@@ -225,6 +225,12 @@ let galleryarray = [
         src : "assets/images/badguys.jpg",
         link : "./films/BadGuy/index.html"
     },
+    {
+        id:42,
+        name : "L'école est à nous",
+        src : "assets/images/ecole.jpg",
+        link : "./films/Ecole/index.html"
+    },
     ];
 
 
