@@ -219,6 +219,12 @@ let galleryarray = [
         src : "assets/images/abominable.jpg",
         link : "./films/Abominable/index.html"
     },
+    {
+        id:41,
+        name : "Les Bad Guys",
+        src : "assets/images/badguys.jpg",
+        link : "./films/BadGuy/index.html"
+    },
     ];
 
 
