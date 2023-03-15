@@ -67,31 +67,31 @@ let galleryarray = [
         id:15,
         name : "Star Wars V : l'empire contre-attaque",
         src : "assets/images/star-wars5.jpg",
-        link : "#"
+        link : "./films/StarWars5/index.html"
     },
     {
         id:16,
         name : "Star Wars VI : le retour du Jedi",
         src : "assets/images/star-wars6.jpg",
-        link : "#"
+        link : "./films/StarWars6/index.html"
     },
     {
         id:17,
         name : "Star Wars VII : le réveil de la force",
         src : "assets/images/star-wars7.jpg",
-        link : "#"
+        link : "./films/StarWars7/index.html"
     },
     {
         id:18,
         name : "Star Wars VIII : les derniers jedi",
         src : "assets/images/star-wars8.jpg",
-        link : "#"
+        link : "./films/StarWars8/index.html"
     },
     {
         id:18,
         name : "Star Wars IX : l'ascension de skywalker",
         src : "assets/images/star-wars9.jpg",
-        link : "#"
+        link : "./films/StarWars9/index.html"
     },
     {
         id:19,
@@ -111,54 +111,54 @@ let galleryarray = [
         src : "assets/images/black-adam.jpg",
     link : "./films/BlackAdam/index.html"
     },
-    {
-        id:23,
-        name : "Fast and Furious",
-        src : "assets/images/fast and furious.jpg",
-        link : "#"
-    },
-    {
-        id:24,
-        name : "Fast and Furious 2",
-        src : "assets/images/fast and furious 2.jpg",
-        link : "#"
-    },
-    {
-        id:25,
-        name : "Fast and Furious: Tokyo Drift",
-        src : "assets/images/fast and furious 3.jpg",
-        link : "#"
-    },
-    {
-        id:26,
-        name : "Fast and Furious 4",
-        src : "assets/images/fast and furious 4.jpg",
-        link : "#"
-    },
-    {
-        id:27,
-        name : "Fast and Furious 5",
-        src : "assets/images/fast and furious 5.jpg",
-        link : "#"
-    },
-    {
-        id:28,
-        name : "Fast and Furious 6",
-        src : "assets/images/fast and furious 6.jpg",
-        link : "#"
-    },
-    {
-        id:29,
-        name : "Fast and Furious 7",
-        src : "assets/images/fast and furious 7.jpg",
-        link : "#"
-    },
-    {
-        id:30,
-        name : "Fast and Furious 8",
-        src : "assets/images/fast and furious 8.jpg",
-        link : "#"
-    },
+    // {
+    //     id:23,
+    //     name : "Fast and Furious",
+    //     src : "assets/images/fast and furious.jpg",
+    //     link : "#"
+    // },
+    // {
+    //     id:24,
+    //     name : "Fast and Furious 2",
+    //     src : "assets/images/fast and furious 2.jpg",
+    //     link : "#"
+    // },
+    // {
+    //     id:25,
+    //     name : "Fast and Furious: Tokyo Drift",
+    //     src : "assets/images/fast and furious 3.jpg",
+    //     link : "#"
+    // },
+    // {
+    //     id:26,
+    //     name : "Fast and Furious 4",
+    //     src : "assets/images/fast and furious 4.jpg",
+    //     link : "#"
+    // },
+    // {
+    //     id:27,
+    //     name : "Fast and Furious 5",
+    //     src : "assets/images/fast and furious 5.jpg",
+    //     link : "#"
+    // },
+    // {
+    //     id:28,
+    //     name : "Fast and Furious 6",
+    //     src : "assets/images/fast and furious 6.jpg",
+    //     link : "#"
+    // },
+    // {
+    //     id:29,
+    //     name : "Fast and Furious 7",
+    //     src : "assets/images/fast and furious 7.jpg",
+    //     link : "#"
+    // },
+    // {
+    //     id:30,
+    //     name : "Fast and Furious 8",
+    //     src : "assets/images/fast and furious 8.jpg",
+    //     link : "#"
+    // },
     {
         id:31,
         name : "Fast and Furious 9",
@@ -175,19 +175,19 @@ let galleryarray = [
         id:33,
         name : "Taxi 2",
         src : "assets/images/taxi 2.jpg",
-        link : "#"
+        link : "./films/Taxi2/index.html"
     },
     {
         id:34,
         name : "Taxi 3",
         src : "assets/images/taxi 3.jpg",
-        link : "#"
+        link : "./films/Taxi3/index.html"
     },
     {
         id:35,
         name : "Taxi 4",
         src : "assets/images/taxi 4.jpg",
-        link : "#"
+        link : "./films/Taxi4/index.html"
     },
     {
         id:36,
