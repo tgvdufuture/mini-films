@@ -5,41 +5,22 @@ body{
     zoom: 67%;
 }
 .navbar-moi{
-    background: linear-gradient(to right, black, rgb(121, 8, 8)) ;
+    background: rgb(8, 8, 8);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    width: auto;
 }
 a{
     color: white;
     text-decoration: none;
-}
-
-.nom{
-    position: relative;
-    right: 30%;
-    font-size: 50px;
-}
-.films{
-    position: relative;
-    right: 0%;
-    font-size: 50px;
-}
-.home{
-    position: relative;
-    right: 5%;
-    font-size: 50px;
 }
 h1{
     color: white;
 }
 h4{
     color: white;
-}
-.g404{
-    font-size: 30px;
-    text-decoration: underline;
 }
 button{
     background-color: transparent;
@@ -50,13 +31,24 @@ button{
     margin: 30px;
 }
 
+
+
+.films{
+    display: flex;
+    justify-content: center;
+    font-size: 50px;
+}
+.g404{
+    font-size: 30px;
+    text-decoration: underline;
+}
 .text{
     display: flex;
     align-items: center;
     flex-direction: column;
     position: absolute;
-    top: 50%;
-    left: 40%;
+    top: 400px;
+    left: 37%;
 }
 .name{
     margin: 10px;
@@ -65,36 +57,29 @@ button{
 .infos{
     font-size: 30px;
 }
-.search-moi{
-    width: 1500px;
-    position: relative;
-    bottom: 200px;
+.img{
+    width: 2000px;
+    height: 1000px;
 }
-.search-moi input{
-    font-size: 25px;
+
+
+.title-page{
+    margin: 4%;
+    font-size: 50px;
 }
-.search-moi button{
-    font-size: 25px;
-    color: #38bdf8;
-    border-color: #38bdf8;
-}
-.search-moi button:hover{
-    background-color: #38bdf8;
-    border-color: #38bdf8;
-}
+
+
+/* cards */
 
 
 .img-card{
     height: 600px;
+    width: 400px;
 }
 .cards{
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-}
-.card-moi{
-    width: 400px;
-    margin: 100px;
 }
 .title-card{
     color: white;
@@ -102,21 +87,23 @@ button{
     justify-content: center;
     font-size: 200%;
     text-align: center;
+    margin: 20px;
 }
 .buton-card{
     position: relative;
-    left: 30%;
+    left: 120px;
 }
 
 
 
 
 .fin{
-    background: linear-gradient(to right, black, rgb(121, 8, 8));
+    background: rgb(8, 8, 8);
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    width: auto;
     height: 300px;
 }
 .fin h1{
