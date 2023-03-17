@@ -109,56 +109,8 @@ let galleryarray = [
         id:21,
         name : "Black Adam",
         src : "assets/images/black-adam.jpg",
-    link : "./films/BlackAdam/index.html"
+        link : "./films/BlackAdam/index.html"
     },
-    // {
-    //     id:23,
-    //     name : "Fast and Furious",
-    //     src : "assets/images/fast and furious.jpg",
-    //     link : "#"
-    // },
-    // {
-    //     id:24,
-    //     name : "Fast and Furious 2",
-    //     src : "assets/images/fast and furious 2.jpg",
-    //     link : "#"
-    // },
-    // {
-    //     id:25,
-    //     name : "Fast and Furious: Tokyo Drift",
-    //     src : "assets/images/fast and furious 3.jpg",
-    //     link : "#"
-    // },
-    // {
-    //     id:26,
-    //     name : "Fast and Furious 4",
-    //     src : "assets/images/fast and furious 4.jpg",
-    //     link : "#"
-    // },
-    // {
-    //     id:27,
-    //     name : "Fast and Furious 5",
-    //     src : "assets/images/fast and furious 5.jpg",
-    //     link : "#"
-    // },
-    // {
-    //     id:28,
-    //     name : "Fast and Furious 6",
-    //     src : "assets/images/fast and furious 6.jpg",
-    //     link : "#"
-    // },
-    // {
-    //     id:29,
-    //     name : "Fast and Furious 7",
-    //     src : "assets/images/fast and furious 7.jpg",
-    //     link : "#"
-    // },
-    // {
-    //     id:30,
-    //     name : "Fast and Furious 8",
-    //     src : "assets/images/fast and furious 8.jpg",
-    //     link : "#"
-    // },
     {
         id:31,
         name : "Fast and Furious 9",
@@ -230,6 +182,12 @@ let galleryarray = [
         name : "L'école est à nous",
         src : "assets/images/ecole.jpg",
         link : "./films/Ecole/index.html"
+    },
+    {
+        id:43,
+        name : "Inséparables",
+        src : "assets/images/inseparables.jpg",
+        link : "./films/Inséparables/index.html"
     },
     ];
 
