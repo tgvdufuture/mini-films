@@ -195,6 +195,12 @@ let galleryarray = [
         src : "assets/images/minions.jpg",
         link : "./films/Minions/index.html"
     },
+    {
+        id:32,
+        name : "Les Minions 2 : Il était une fois Gru",
+        src : "assets/images/minions2.jpg",
+        link : "./films/Minions2/index.html"
+    },
     ];
 
 
