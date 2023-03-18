@@ -213,6 +213,12 @@ let galleryarray = [
         src : "assets/images/scene2.jpg",
         link : "./films/Scene2/index.html"
     },
+    {
+        id:35,
+        name : "La Famille Addams",
+        src : "assets/images/addams.jpg",
+        link : "./films/Addams/index.html"
+    },
     ];
 
 

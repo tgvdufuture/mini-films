@@ -3,6 +3,7 @@ body{
     overflow-x: hidden;
     height: 1vh;
     zoom: 67%;
+    font-family: Arial, Helvetica, sans-serif;
 }
 .navbar-moi{
     background: rgb(8, 8, 8);
@@ -10,17 +11,32 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: row;
+    width: auto;
     height: 100px;
 }
 
-a{
+a, h1, h3{
     color: white;
     text-decoration: none;
-    /* margin-left: 20px; */
+    margin-top: 10px; 
 }
-.home{
+
+
+
+
+.nom{
+    position: relative;
+    right: 30%;
+    font-size: 60px;
+}
+.films{
     display: flex;
     justify-content: center;
+    font-size: 60px;
+}
+.home{
+    position: relative;
+    right: 8%;
     font-size: 60px;
 }
 button{
@@ -33,63 +49,28 @@ button{
 }
 
 
-.search-moi{
+.all{
     display: flex;
-    justify-content: center;
-    margin:50px;
-}
-.search-moi input{
-    font-size: 25px;
-    height: 50px;
-    border-radius: 13px;
-}
-.search-moi button{
-    font-size: 25px;
-    color: #38bdf8;
-    border-color: #38bdf8;
-}
-.search-moi button:hover{
-    background-color: #38bdf8;
-    border-color: #38bdf8;
+    align-items: center;
+    flex-direction: column;
 }
 
-.card{
-    background-color: black;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    flex-wrap: wrap;
-}
-.img-card{
-    width: 400px;
-    height: 600px;
-    position: relative;
-    left: 50px;
-    border-radius: 10px;
-}
-.img-card:hover{
-    width: 450px;
-    height: 650px;
-}
-.card-moi{
+img{
     width: 500px;
-    background-color: rgb(0, 0, 0);
-    margin: 100px;
+    margin: 50px;
 }
-.title-card{
-    color: white;
-    font-size: 200%;
+.name-film{
+    font-size: 60px;
+}
+.descr{
+    font-size: 30px;
     text-align: center;
-    position: relative;
-    margin-top: 30px;
+    margin: 60px;
 }
-.buton-card{
-    position: relative;
-    left: 165px;
+iframe{
+    width: 1000px;
+    height: 550px;
 }
-
-
-
 
 .fin{
     background: rgb(8, 8, 8);
@@ -111,20 +92,9 @@ button{
     left: 40%;
     cursor: pointer;
 }
-
-
-
-
-
-
-
-
-
-
-
 .reseaux{
     position: relative;
-    top: 200px;
+    top: 300px;
     left: 2%;
 
 }
