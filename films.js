@@ -201,6 +201,18 @@ let galleryarray = [
         src : "assets/images/minions2.jpg",
         link : "./films/Minions2/index.html"
     },
+    {
+        id:33,
+        name : "Tous en Scène",
+        src : "assets/images/scene.jpg",
+        link : "./films/Scene/index.html"
+    },
+    {
+        id:34,
+        name : "Tous en Scène 2",
+        src : "assets/images/scene2.jpg",
+        link : "./films/Scene2/index.html"
+    },
     ];
 
 
