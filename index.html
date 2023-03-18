@@ -68,4 +68,23 @@
         <a  href="./films.html"><p>Films</p></a>
     </div>
 </body>
+<script>
+    function dimOpacity(img) {
+        // Mettre la classe "dim" sur toutes les autres images
+		var images = document.getElementsByTagName("img");
+			for (var i = 0; i < images.length; i++) {
+				if (images[i] != img) {
+					images[i].classList.add("dim");
+				}
+			}
+		}
+
+		function resetOpacity(img) {
+		// Supprimer la classe "dim" sur toutes les images
+		var images = document.getElementsByTagName("img");
+			for (var i = 0; i < images.length; i++) {
+				images[i].classList.remove("dim");
+			}
+		}
+</script>
 </html>

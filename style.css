@@ -77,6 +77,10 @@ button{
 .img-card{
     height: 600px;
     width: 400px;
+    border-radius: 10px;
+}
+.img-card:hover :nth-last-child(){
+    opacity: 70%;
 }
 .cards{
     display: flex;
