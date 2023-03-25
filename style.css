@@ -4,6 +4,41 @@ body{
     height: 1vh;
     zoom: 67%;
 }
+
+
+@keyframes nom {
+    from{
+        position: relative;
+        left: -600%;
+    }
+    to{
+        position: relative;
+        left: 0%;
+    }
+}
+@keyframes bouton {
+    from{
+        position: relative;
+        top: 200px;
+    }
+    to{
+        position: relative;
+        top: 0px;
+    }
+}
+@keyframes navbar {
+    from{
+        position: relative;
+        bottom: 200px;
+    }
+    to{
+        position: relative;
+        bottom: 0px;
+    }
+}
+
+
+
 .navbar-moi{
     background: rgb(8, 8, 8);
     display: flex;
@@ -11,6 +46,8 @@ body{
     align-items: center;
     flex-direction: row;
     width: auto;
+    animation-name: navbar;
+    animation-duration: 2s;
 }
 a{
     color: white;
@@ -54,6 +91,8 @@ button{
     margin: 10px;
     font-size: 100px;
     text-align: center;
+    animation-name: nom;
+    animation-duration: 1.5s;
 }
 .infos{
     font-size: 30px;
@@ -63,7 +102,10 @@ button{
     width: 2000px;
     height: 1000px;
 }
-
+.buton-home{
+    animation-name: bouton;
+    animation-duration: 2s;
+}
 
 .title-page{
     margin: 4%;
@@ -78,9 +120,6 @@ button{
     height: 600px;
     width: 400px;
     border-radius: 10px;
-}
-.img-card:hover :nth-last-child(){
-    opacity: 70%;
 }
 .cards{
     display: flex;
