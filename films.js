@@ -219,6 +219,12 @@ let galleryarray = [
         src : "assets/images/addams.jpg",
         link : "./films/Addams/index.html"
     },
+    {
+        id:36,
+        name: "Fast and Furious X",
+        src: "assets/images/fast and furious X.jpg",
+        link: "./films/FastAndFurious10/index.html"
+    }
     ];
 
 
