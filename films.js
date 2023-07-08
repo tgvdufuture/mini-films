@@ -224,7 +224,13 @@ let galleryarray = [
         name: "Fast and Furious X",
         src: "assets/images/fast and furious X.jpg",
         link: "./films/FastAndFurious10/index.html"
-    }
+    },
+    {
+        id:37,
+        name: "La Vie Scolaire",
+        src: "assets/images/la vie scolaire.jpg",
+        link: "./films/LaVieScolaire/index.html"
+    },
     ];
 
 
